@@ -1,0 +1,34 @@
+.srift1 {
+    font-family: "Open Sans","Arial",sans-serif;
+    font-size: 20px;
+    line-height: 30px
+    ;
+    font-weight: 300px
+    ;
+    font-style: italic;
+    
+}
+.srift2 {
+    text-decoration: line-through;
+}
+.srift3 {
+    text-transform: uppercase;
+    text-align: center;
+}
+.srift4 {
+    word-spacing: 30px;
+    color: blueviolet;
+    text-decoration: overline wavy;
+}
+.srift5 {
+    text-decoration: underline;
+    letter-spacing: 5px;
+}
+div {
+    font-family: "Open Sans","Arial",sans-serif;
+    font-size: 20px;
+    line-height: 30px
+    ;
+    font-weight: 300px
+    ;
+}
